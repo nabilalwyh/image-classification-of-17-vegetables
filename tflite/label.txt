@@ -1,0 +1,15 @@
+Cucumber
+Pumpkin
+Brinjal
+Capsicum
+Tomato
+Bottle_Gourd
+Bean
+Papaya
+Radish
+Bitter_Gourd
+Broccoli
+Cauliflower
+Cabbage
+Carrot
+Potato
